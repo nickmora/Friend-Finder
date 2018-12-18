@@ -1,0 +1,16 @@
+#welcomeHeader{
+    background-image: url("../images/homeBackground.png");
+    background-size: cover;
+    color: #EEEEEE;
+}
+
+#surveyHeader{
+    background-image: url("../images/surveybg.png");
+    background-size: cover;
+    color: #AAAAAA;
+}
+
+.question{
+    padding: 20px;
+    margin: 20px 20px 20px 0px;
+}
